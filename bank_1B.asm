@@ -3783,7 +3783,7 @@ CODE_1BEA2B: PHX                                  ;1BEA2B|DA      |      ;
      SBC.W #$0020                         ;1BEA2D|E92000  |      ;  
      ASL A                                ;1BEA30|0A      |      ;  
      TAX                                  ;1BEA31|AA      |      ;  
-     LDA.L UNREACH_019C83,X               ;1BEA32|BF839C01|019C83;  
+     LDA.L DATA8_019C83,X                 ;1BEA32|BF839C01|019C83;  
      PLX                                  ;1BEA36|FA      |      ;  
      ORA.W $0262                          ;1BEA37|0D6202  |000262;  
      ORA.W #$3000                         ;1BEA3A|090030  |      ;  
