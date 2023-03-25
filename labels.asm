@@ -191,9 +191,4 @@
                        A2A7H = $004379                      ;      |        |      ;  
                        NTLR7 = $00437A                      ;      |        |      ;  
                        LOOSE_OP_1FF888 = $1FF888            ;      |        |      ;  
-                       LOOSE_OP_00D5BA = $00D5BA            ;      |        |      ;  
-                       LOOSE_OP_00AF28 = $00AF28            ;      |        |      ;  
-                       LOOSE_OP_00D149 = $00D149            ;      |        |      ;  
                        LOOSE_OP_09F629 = $09F629            ;      |        |      ;  
-                       LOOSE_OP_0098F9 = $0098F9            ;      |        |      ;  
-                       LOOSE_OP_00D801 = $00D801            ;      |        |      ;  
